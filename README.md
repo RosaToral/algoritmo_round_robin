@@ -4,7 +4,7 @@ Es un único archivo por petición de entrega.
 
 Debe tener instalado el JDK de Java para poder ejecutarlo.
 
-El algoritmo es Round Robin para la asignación de espacios en la memoria RAM para procesos.
+El algoritmo Round Robin sirve para la planificación y administración de los procesos en una computadora.
 
 Funciona con 4 objetos que simulan procesos reales y la creación y tiempo de aparición de los procesos es aleatoria.
 
